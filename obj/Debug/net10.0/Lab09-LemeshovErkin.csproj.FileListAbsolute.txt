@@ -12,3 +12,4 @@ C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\refint\Lab09
 C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.pdb
 C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.genruntimeconfig.cache
 C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\ref\Lab09-LemeshovErkin.dll
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.sourcelink.json
