@@ -1,0 +1,14 @@
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\bin\Debug\net10.0\Lab09-LemeshovErkin.exe
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\bin\Debug\net10.0\Lab09-LemeshovErkin.deps.json
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\bin\Debug\net10.0\Lab09-LemeshovErkin.runtimeconfig.json
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\bin\Debug\net10.0\Lab09-LemeshovErkin.dll
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\bin\Debug\net10.0\Lab09-LemeshovErkin.pdb
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.AssemblyInfoInputs.cache
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.AssemblyInfo.cs
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.csproj.CoreCompileInputs.cache
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.dll
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\refint\Lab09-LemeshovErkin.dll
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.pdb
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\Lab09-LemeshovErkin.genruntimeconfig.cache
+C:\Users\Student_07\Documents\Lab09-LemeshovErkin\obj\Debug\net10.0\ref\Lab09-LemeshovErkin.dll
